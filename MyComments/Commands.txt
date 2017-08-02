@@ -1,0 +1,1 @@
+Redirecting to  NS_LOG="Ipv4L3Protocol" ./waf --run scratch/dynamic-global-routing >./output/output3.txt 2>&1
